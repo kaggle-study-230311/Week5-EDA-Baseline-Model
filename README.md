@@ -104,7 +104,7 @@
         [최단거리 구하기, 하버사인 공식(Haversine Formula)](https://kayuse88.github.io/haversine/)
         
 
-## EDA
+## 2. EDA
 
 - 'trip_duration_in_hour' 열의 분포 시각화
 - 이상치 체크
@@ -137,11 +137,11 @@
 - 택시의 평균 속도
 - 요일별(kph) 평균 속도 시각화
 
-## Feature Engineering
+## 3. Feature Engineering
 
 - test data에 동일한 처리 진행
 
-## Modeling
+## 4. Modeling
 
 - 불필요한 컬럼 삭제
     - 'avg_speed_kph'는 'trip_distance'와 'trip_duration_in_hour' 컬럼을 기반으로 계산된 값이므로, 모델이 예측하는데 있어 중복적인 정보
