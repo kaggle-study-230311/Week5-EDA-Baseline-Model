@@ -1,5 +1,3 @@
-# week5-EDA-Baseline-Model
-
 # 5주차_EDA + Baseline Moldel(0.40 RMSE)
 
 ## 0. 문제정의
